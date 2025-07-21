@@ -1,1 +1,1 @@
-# Intermediate_sogo.
+# TechPit_Javaスクール_総合問題
